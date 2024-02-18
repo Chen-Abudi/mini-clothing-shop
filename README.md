@@ -1,4 +1,4 @@
-# mini-clothing-shop
+# mini-clothing-shop 🛍️
 
 ## 📣 Overview:
 
