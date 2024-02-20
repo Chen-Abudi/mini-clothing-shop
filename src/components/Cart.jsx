@@ -1,6 +1,6 @@
 import { useContext } from "react";
 
-import ShopCartContext from "../store/shopping-cart-context.jsx";
+import { ShopCartContext } from "../store/shopping-cart-context.jsx";
 
 function Cart({ onUpdateItemQuantity }) {
   const cartCtx = useContext(ShopCartContext);
