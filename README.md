@@ -4,6 +4,7 @@
 
 - Intro
 - Tech Stack
+- Techniques
 - Additional Link
 
 ## 🔎 Intro:
@@ -16,6 +17,11 @@ This is a frontend practice project in React, showcasing clothing shopping. The 
 - Javascript
 - CSS3
 - Vite
+
+## 🛠️ Techniques:
+
+- Component Composition
+- React's Context API
 
 ---
 
