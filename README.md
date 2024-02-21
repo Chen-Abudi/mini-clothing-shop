@@ -22,6 +22,7 @@ This is a frontend practice project in React, showcasing clothing shopping. The 
 
 - Component Composition
 - React's Context API
+- useReducer
 
 ---
 

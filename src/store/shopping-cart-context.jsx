@@ -74,25 +74,14 @@ function ShopCartContextProvider({ children }) {
     }
   );
 
-  // const [shoppingCart, setShoppingCart] = useState({
-  //   items: [],
-  // });
-
   function handleAddItemToCart(id) {
     shoppingCartDispatch({
       type: "ADD_ITEM",
       payload: id,
     });
-
-    // setShoppingCart((prevShoppingCart) => {
-
-    // });
   }
 
   function handleUpdateCartItemQuantity(productId, amount) {
-    // setShoppingCart((prevShoppingCart) => {
-
-    // });
     shoppingCartDispatch({
       type: "UPDATE_ITEM",
       payload: {
